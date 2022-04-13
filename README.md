@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### Project Description
+
+the purpose of this project is to display a favorite color from a pool of colors in the header,
+and show colors available to the user to choose.
+To get started, navigate to the project directory and run "yarn start".
+
 ## Available Scripts
 
 In the project directory, you can run:
